@@ -14,7 +14,7 @@ contract address on EVMOS testnet - `d`
 
 ## Steps to start the project ->
 
-- git clone `https://github.com/3scava1i3r/seamless.git`
+- git clone `https://github.com/Sylvester-dev/seamless.git`
 - `cd /frontend`
 - `npm install`
 - `npm start`
